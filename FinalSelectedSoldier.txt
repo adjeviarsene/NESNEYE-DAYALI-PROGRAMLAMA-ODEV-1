@@ -1,5 +1,0 @@
-No    Matricule            Name                 Surname              Nationality          Record     Birthday                            Gender     Height     Old        BedNot     Shooting   PsycoTest 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -
-1     16YÖS006             ASIAH ASLAH          SABILA               TÜRK                 NO         7/19/1997 12:00:00 AM               Female     180        22         92         48         80         78        
-2     16YTB111             AMINA                GANCHIMEG            TÜRK                 NO         10/13/1995 12:00:00 AM              Male       190        24         64         85         96         77.25     
-3     16YTB111             AMINA                GANCHIMEG            TÜRK                 NO         10/13/1995 12:00:00 AM              Female     190        24         98         47         32         68.75     
